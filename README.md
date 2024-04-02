@@ -1,6 +1,8 @@
 
 <h2> Hi, I'm Fernando Elegido! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTluZzluMGxsdzk5dWI0eHptMHc4NWFnd2drYjFrb2R4ZjI3MnZwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NFGhfDRVAml9khfvzP/giphy.gif" width="50"></h2>
-</br>
+
+***
+
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZscmRmem82Ym8zeTB5MnRoeDFoeGR5eW9rcWtvNXdkaGNtN2V1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
 <p><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pveDM3bDVieTQ5cTY4NmU5bmh2ZW1tMjZrZmo5eWJoZnkxaDB1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30"> <em>Full Stack Developer at GeeksHubs Academy</a>
@@ -16,6 +18,7 @@
 <a href="https://www.linkedin.com/in/fernando-elegido" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+***
 
 ### A little more about me...   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NhMXE1b2UyY2F0aDkzdHNyeXRuODhlODYyZHFoc3NwemU4ZjJlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igPDtkfSJZMFwE0LP8/giphy.gif" width="50"> 
 
