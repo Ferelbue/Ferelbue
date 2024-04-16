@@ -24,8 +24,8 @@
 
 ```javascript
 const fernando = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, PhP],
+  tools: [React, Redux, Node, Express, Mongo, Laravel, SQL, Jest, Docker, GIT, Agile, Scrum],
   skills: {
               Problem_Solving,
               Teamwork,
@@ -33,6 +33,6 @@ const fernando = {
               Commitment,
           },
  programingExperience: "One year self-learning",
- workExperience: "Nine years in maintance and programming of PLC, micro-controllers, robots and CNC"
+ workExperience: "Nine years in programming of PLC, micro-controllers, robots and CNC"
 }
 ```
