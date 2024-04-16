@@ -23,7 +23,7 @@
 ### A little more about me...   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NhMXE1b2UyY2F0aDkzdHNyeXRuODhlODYyZHFoc3NwemU4ZjJlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igPDtkfSJZMFwE0LP8/giphy.gif" width="50"> 
 
 ```javascript
-const fernando = {
+const FERNANDO = {
   code: [Javascript, Typescript, HTML, CSS, PhP],
   tools: [React, Redux, Node, Express, Mongo, Laravel, SQL, Jest, Docker, GIT, Agile, Scrum],
   skills: {
