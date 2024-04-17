@@ -36,3 +36,11 @@ const FERNANDO = {
  workExperience: "Nine years in programming of PLC, micro-controllers, robots and CNC"
 }
 ```
+
+***
+
+### My Top Languages on GitHub <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR4Mmx0amV6anczam84YWhhMWVnYndlZzdqaXFhcTM0NHN1eHF6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="50"> 
+<div style="background-color:rgb(245,245,245); text-align:center; display: flex; flex-direction: column; ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferelbue&layout=donut" style="height:15em;" />
+</div>
+
